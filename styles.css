@@ -7,3 +7,8 @@
 .container {
     display: flex;
 }
+
+img[src*="unsplash"] {
+    height: 100vh;
+    width: 40vw;
+}
