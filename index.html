@@ -20,7 +20,7 @@
                     <div class="form">
                         <div class="left">
                             <label for="firstName">First Name</label>
-                            <input type="text" id="firstName" name="firstName" autocomplete="given-name" pattern="[^0-9]+" required>
+                            <input type="text" id="firstName" name="firstName" autocomplete="given-name" minlength="2" maxlength="25" pattern="[^0-9]+" required>
 
                             <label for="email">Email</label>
                             <input type="email" id="email" name="email" autocomplete="email" required>
@@ -30,7 +30,7 @@
                         </div>
                         <div class="right">
                             <label for="lastName">Last Name</label>
-                            <input type="text" id="lastName" name="lastName" autocomplete="family-name" pattern="[^0-9]+" required>
+                            <input type="text" id="lastName" name="lastName" autocomplete="family-name" minlength="2" maxlength="25" pattern="[^0-9]+" required>
 
                             <label for="number">Phone Number</label>
                             <input type="tel" id="number" name="number" autocomplete="tel" required>
