@@ -1,3 +1,13 @@
+@font-face {
+    font-family: abhayaLibre;
+    src: url(fonts/AbhayaLibre-SemiBold.woff2);
+}
+
+@font-face {
+    font-family: aboreto;
+    src: url(fonts/Aboreto-Regular.woff2);
+}
+
 * {
     box-sizing: border-box;
     margin: 0;
