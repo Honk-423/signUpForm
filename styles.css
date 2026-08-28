@@ -33,6 +33,7 @@ img[src*="unsplash"] {
     font-family: aboreto, sans-serif;
     background-color: hsla(0, 0%, 0%, 39%);
     color: white;
+    padding: 0.5rem 0 0.8rem;
 }
 
 .imgSidebar > p:first-child {
