@@ -59,3 +59,7 @@ img[src*="unsplash"] {
 .imgSidebar > p > a:active {
     color: hsl(82.76deg 30.85% 55.34%);
 }
+
+.formCon {
+    padding: 3rem 2rem;
+}
