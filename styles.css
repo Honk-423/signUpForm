@@ -61,5 +61,10 @@ img[src*="unsplash"] {
 }
 
 .formCon {
+    font-family: abhayaLibre, serif;
     padding: 3rem 2rem;
+}
+
+input {
+    font-family: abhayaLibre, serif;
 }
