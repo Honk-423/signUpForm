@@ -31,6 +31,7 @@ img[src*="unsplash"] {
     bottom: 0;
     width: 40vw;
     font-family: aboreto, sans-serif;
+    background-color: hsla(0, 0%, 0%, 39%);
     color: white;
 }
 
