@@ -33,3 +33,7 @@ img[src*="unsplash"] {
     font-family: aboreto, sans-serif;
     color: white;
 }
+
+.imgSidebar > p:first-child {
+    font-size: 2.65rem;
+}
