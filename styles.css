@@ -60,6 +60,10 @@ img[src*="unsplash"] {
     color: hsl(82.76deg 30.85% 55.34%);
 }
 
+.text {
+    font-size: 2rem;
+}
+
 .formCon {
     font-family: abhayaLibre, serif;
     width: 60vw;
