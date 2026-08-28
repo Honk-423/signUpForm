@@ -72,6 +72,15 @@ img[src*="unsplash"] {
     background-color: hsl(48, 80.65%, 93.92%);
 }
 
+.formInnerCon {
+    display: flex;
+}
+
+.left, .right {
+    display: flex;
+    flex-flow: column;
+}
+
 input {
     font-family: abhayaLibre, serif;
 }
