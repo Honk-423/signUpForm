@@ -24,6 +24,12 @@ img[src*="unsplash"] {
 }
 
 .imgSidebar {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+    width: 40vw;
     font-family: aboreto, sans-serif;
     color: white;
 }
