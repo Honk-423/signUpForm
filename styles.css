@@ -37,3 +37,7 @@ img[src*="unsplash"] {
 .imgSidebar > p:first-child {
     font-size: 2.65rem;
 }
+
+.logo {
+    height: 6rem;
+}
