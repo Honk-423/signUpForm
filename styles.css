@@ -43,3 +43,11 @@ img[src*="unsplash"] {
 .logo {
     height: 6rem;
 }
+
+.imgSidebar > p > a:link {
+    color: hsl(85.28deg 51.43% 72.55%);
+}
+
+.imgSidebar > p > a:visited {
+    color: hsl(85deg 81.84% 40.76%);
+}
