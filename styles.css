@@ -107,6 +107,7 @@ button {
     padding: .25rem .8rem;
     background-color: hsl(65.81, 28.7%, 42.35%);
     border-radius: .5rem;
+    margin: 1rem 0 3rem;
 }
 
 label, button {
