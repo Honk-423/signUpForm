@@ -96,6 +96,7 @@ input {
     font-size: 2rem;
     background-color: hsl(48, 80.65%, 93.92%);
     border-radius: .5rem;
+    padding: 0 .3rem;
 }
 
 label {
