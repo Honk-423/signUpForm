@@ -65,6 +65,14 @@ img[src*="unsplash"] {
     /* Add margin-bottom to p inside of text */
 }
 
+.text > p:first-child {
+    margin-bottom: 3rem;
+}
+
+.text > p:last-child {
+    margin-bottom: 2rem;
+}
+
 .formCon {
     font-family: abhayaLibre, serif;
     width: 60vw;
