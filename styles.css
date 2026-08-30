@@ -87,6 +87,7 @@ img[src*="unsplash"] {
 input {
     font-family: abhayaLibre, serif;
     font-size: 1.5rem;
+    background-color: hsl(48, 80.65%, 93.92%);
 }
 
 label {
