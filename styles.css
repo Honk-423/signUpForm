@@ -74,6 +74,9 @@ img[src*="unsplash"] {
 
 .formInnerCon {
     display: flex;
+    background-color: hsl(65.81, 28.7%, 42.35%);
+    padding: .8rem 1.5rem 1.5rem;
+    border-radius: 1rem;
 }
 
 .left, .right {
