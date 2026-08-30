@@ -95,6 +95,7 @@ input {
     font-family: abhayaLibre, serif;
     font-size: 2rem;
     background-color: hsl(48, 80.65%, 93.92%);
+    border-radius: .5rem;
 }
 
 label {
