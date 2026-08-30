@@ -62,7 +62,6 @@ img[src*="unsplash"] {
 
 .text {
     font-size: 2rem;
-    /* Add margin-bottom to p inside of text */
 }
 
 .text > p:first-child {
