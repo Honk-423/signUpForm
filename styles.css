@@ -85,6 +85,7 @@ img[src*="unsplash"] {
     background-color: hsl(65.81, 28.7%, 42.35%);
     padding: .8rem 1.5rem 1.5rem;
     border-radius: 1rem;
+    gap: 3rem;
 }
 
 .left, .right {
@@ -95,6 +96,7 @@ img[src*="unsplash"] {
 input {
     font-family: abhayaLibre, serif;
     font-size: 2rem;
+    width: 25rem;
     background-color: hsl(48, 80.65%, 93.92%);
     border-radius: .5rem;
     padding: 0 .3rem;
