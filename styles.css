@@ -122,3 +122,19 @@ label, button {
 .login {
     font-size: 1.4rem;
 }
+
+.login > p > a {
+    color: hsl(65.81deg 32% 34.59%);
+}
+
+.login > p > a:visited {
+    color: hsl(65.81deg 61.17% 21.83%);
+}
+
+.login > p > a:hover {
+    color: hsl(85.28deg 87.87% 28.02%)
+}
+
+.login > p > a:active {
+    color: hsl(85, 85%, 21%)
+}
