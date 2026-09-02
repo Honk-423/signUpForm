@@ -133,6 +133,14 @@ button {
     margin: 1rem 0 3rem;
 }
 
+button:hover {
+    background-color: hsl(67, 32%, 38%);
+}
+
+button:active {
+    background-color: hsl(67, 35%, 34%);
+}
+
 label, button {
     color: hsl(48, 80.65%, 93.92%);
 }
