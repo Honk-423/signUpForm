@@ -128,6 +128,7 @@ button {
     font-size: 2rem;
     padding: .25rem .8rem;
     background-color: hsl(65.81, 28.7%, 42.35%);
+    border: .15rem solid hsl(65, 36%, 36%);
     border-radius: .5rem;
     margin: 1rem 0 3rem;
 }
