@@ -107,7 +107,7 @@ input {
 }
 
 input:focus {
-    outline: .1rem solid white;
+    outline: none;
     border-top: .2rem solid hsl(77, 100%, 45%);
     border-right: .2rem solid hsl(77, 100%, 45%);
     border-bottom: .15rem solid hsl(77, 100%, 45%);
