@@ -98,6 +98,10 @@ input {
     font-size: 2rem;
     width: 25rem;
     background-color: hsl(48, 80.65%, 93.92%);
+    border-top: .1rem solid hsl(66, 30%, 48%);
+    border-right: .1rem solid hsl(66, 30%, 48%);
+    border-bottom: .15rem solid hsl(65, 36%, 36%);
+    border-left: .15rem solid hsl(65, 36%, 36%);
     border-radius: .5rem;
     padding: 0 .3rem;
 }
