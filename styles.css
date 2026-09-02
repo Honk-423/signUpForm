@@ -115,6 +115,10 @@ input:focus {
     box-shadow: hsla(120, 100%, 25.1%, .6) .1rem .1rem .1rem
 }
 
+input[type="password"]:user-invalid {
+    border-color: red;
+}
+
 label {
     font-size: 2.2rem;
 }
