@@ -112,6 +112,7 @@ input:focus {
     border-right: .2rem solid hsl(77, 100%, 45%);
     border-bottom: .15rem solid hsl(77, 100%, 45%);
     border-left: .15rem solid hsl(77, 100%, 45%);
+    box-shadow: hsla(120, 100%, 25.1%, .6) .1rem .1rem .1rem
 }
 
 label {
